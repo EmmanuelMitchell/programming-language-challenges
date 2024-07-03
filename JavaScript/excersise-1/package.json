@@ -1,0 +1,16 @@
+{
+  "name": "excersise-1",
+  "version": "1.0.0",
+  "main": "Hello.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "pynput": "^0.2.2"
+  }
+}
